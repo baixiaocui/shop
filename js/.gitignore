@@ -1,0 +1,3 @@
+#忽略index.js
+/index.js/
+/index2.js/:
